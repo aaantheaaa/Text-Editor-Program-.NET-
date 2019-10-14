@@ -1,0 +1,13 @@
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\bin\Debug\dotnetAss2.exe.config
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\bin\Debug\dotnetAss2.exe
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\bin\Debug\dotnetAss2.pdb
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.csprojAssemblyReference.cache
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.Properties.Resources.resources
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.csproj.GenerateResource.cache
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.csproj.CoreCompileInputs.cache
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.exe
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.pdb
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.LoginForm.resources
+C:\Users\el181\Desktop\DotNet\DotNetAss2\dotnetAss2\obj\Debug\dotnetAss2.NewuserForm.resources
+C:\Users\el181\Desktop\DotNet\dotnetAss2\dotnetAss2\obj\Debug\dotnetAss2.TextEditorWindow.resources
+C:\Users\el181\Desktop\DotNet\DotNetAss2\dotnetAss2\obj\Debug\dotnetAss2.AboutForm.resources
